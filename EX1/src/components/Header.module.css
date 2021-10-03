@@ -1,0 +1,72 @@
+.container{
+    display: flex;
+    
+    color: white;
+    height: 70px;
+    width: 80%;
+    align-items: center;
+    margin-right: auto;
+     margin-left: 10.5%;
+    justify-content: space-between;
+    
+    
+}
+.background{
+
+    background-color:rgb(0, 25, 76);
+
+
+}
+.brand{
+    font-size: 26px;
+    font-weight: 900;
+    font-style: italic;
+}
+.subscribe{
+    
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 100px;
+    border-radius: 50px/50px;
+    font-weight: bold;
+    text-align: center;
+    
+    
+    
+
+    
+}
+.firstThree{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ 
+ width: 35%;
+}
+.lastThree{
+display: flex;
+align-items: center;
+justify-content: space-between;
+width: 20%;
+position: absolute;
+right: 550px;
+
+
+}
+.hae{
+    font-weight: bold;
+  
+}    
+.lehdet{
+    font-weight: bold;
+}
+.uutiset{
+    font-weight: bold;
+}
+.valikko{
+    font-weight: bold;
+}
+.kirjaudu{
+    font-weight: bold;
+}

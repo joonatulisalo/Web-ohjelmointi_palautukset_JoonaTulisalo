@@ -1,0 +1,32 @@
+
+  
+.container{
+  background-color: cornsilk;
+position: relative;
+top: 120px;
+  left: 51%;
+display: flex;
+flex-direction: row;
+gap: 20px;
+justify-content:first baseline;
+border-width: 0px 0px 1px 0px ;
+padding-left: 15px;
+padding-right: 10px;
+ border-style: solid;
+height: 120px;
+width: 340px;
+padding-top: 10px;
+
+
+}
+    
+.numerot{
+ 
+ font-size: 34px;
+ color: magenta;
+}
+.otsikot{
+font-size: 16px;
+}
+
+

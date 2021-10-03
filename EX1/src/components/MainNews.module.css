@@ -1,0 +1,41 @@
+.background{
+    background-color: cornsilk;
+    position: absolute;
+    height: 820px;
+    width: 600px;
+    top: 45%;
+    left: 10.5%;
+}
+.container{
+ 
+ margin-left: 10px;
+ margin-right: 10px;
+ height: 280px;
+ }
+.otsikko{
+color: darkmagenta;
+font-weight: bold;
+
+
+}
+.teksti{
+  color: black;
+  font-style: oblique;
+}
+.tiedot{
+ font-size: 14px;
+}
+.kuva{
+    
+  
+    margin: 16px 16px 16px 16px;
+
+    
+}
+.OT{
+   font-size: 30px;
+   height: 250px;
+   display: flex;
+   justify-content: space-between
+    
+}

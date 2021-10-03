@@ -1,0 +1,30 @@
+.discs{
+    
+    width: 33.33%;
+  padding: 30px;
+  box-sizing: border-box;
+  text-align: center;
+  
+  
+  
+  
+
+}
+
+
+.brand{
+    font-size: 14px;
+}
+.disc{
+    font-size: 20px;
+    font-weight: bolder;
+   
+}
+.price{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+.plastic{
+    font-size: 20px;
+    font-weight: bold;
+}

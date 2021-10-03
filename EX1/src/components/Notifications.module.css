@@ -1,0 +1,22 @@
+.title{
+   font-size: 18px;
+   font-weight: 700;
+   color: white;
+   
+}
+.container{
+    font-size: 16px;
+    font-weight: 600;
+   background-color: rgb(65, 150, 164);
+   color: white;
+   margin-bottom: 2px;
+   padding-left: 16px;
+   padding-right: 16px;
+   padding-top: 16px;
+   padding-bottom: 16px;
+   position:relative;
+   left: 160px;
+   width: 950px;
+   top: 15px;
+   
+}

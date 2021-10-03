@@ -1,0 +1,9 @@
+ {
+     "discs":
+ [
+{"id":"1","plastic":"Neo","disc":"Essence","brand":"Discmania Evolution","price":"19.90€","image":"Essence2.0.jpg"},
+{"id":"2","plastic":"Lucid","disc":"Evader","brand":"Dynamic Discs","price":"16.90€","image":"Evader.jpg"},
+{"id":"3","plastic":"Opto","disc":"River","brand":"Latitude 64","price":"16.90€","image":"River.jpg"},
+{"id":"4","plastic":"ESP","disc":"Heat","brand":"Disraft","price":"16.90€","image":"Heat.jpg"},
+{"id":"5","plastic":"DX","disc":"Leopard","brand":"Innova","price":"10.90€","image":"Leopard.jpg"},
+{"id":"6","plastic":"300","disc":"M1","brand":"Prodigy discs","price":"12.90€","image":"M1.jpg"}]}

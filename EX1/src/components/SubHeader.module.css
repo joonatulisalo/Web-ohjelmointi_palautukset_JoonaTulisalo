@@ -1,0 +1,51 @@
+.background{
+    background-color: cornsilk;
+}
+.container{
+    color: black;
+    display: flex;
+    align-items: center;
+    width: 55%;
+    height: 54px;
+    margin-right: auto;
+    margin-left: 10.5%;
+    justify-content: space-between;
+    
+    
+    
+
+    
+}
+.title1{
+font-size: 16px;
+}
+.title2{
+    font-size: 16px;
+}
+.title3{
+    font-size: 16px;
+}
+.title4{
+    font-size: 16px;
+}
+.title5{
+    font-size: 16px;
+}
+.title6{
+    font-size: 16px;
+}
+.title7{
+    font-size: 16px;
+}
+.title8{
+    font-size: 16px;
+}
+.title9{
+    font-size: 16px;
+}
+.title10{
+    font-size: 16px;
+}
+.title11{
+    font-size: 16px;
+}
